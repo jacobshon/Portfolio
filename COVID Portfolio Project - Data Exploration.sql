@@ -103,5 +103,3 @@ where dea.continent is not null;
 
 Select *
 FROM PercentPopulationvaccinated;
-
---edit git
